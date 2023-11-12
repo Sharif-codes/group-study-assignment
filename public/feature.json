@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "assignmentName": "Science",
+      "assignmentImage": "https://img.freepik.com/free-vector/hand-drawn-science-education-background_23-2148499325.jpg"
+    },
+    {
+      "id": 2,
+      "assignmentName": "Engineering",
+      "assignmentImage": "https://media.istockphoto.com/id/1154341677/photo/industry-and-technology-concept-industry-4-0.jpg?s=612x612&w=0&k=20&c=UgbGbl1oTYa837cA2UQcteWD3Rt_W1Pzujo_0i9Q82E="
+    },
+    {
+      "id": 3,
+      "assignmentName": "Webdevelopment",
+      "assignmentImage": "https://www.shutterstock.com/image-vector/web-development-infographic-260nw-396058687.jpg"
+    },
+    {
+      "id": 4,
+      "assignmentName": "English",
+      "assignmentImage": "https://st4.depositphotos.com/1350793/31321/i/450/depositphotos_313211110-stock-photo-english-concept-with-a-person.jpg"
+    },
+    {
+      "id": 5,
+      "assignmentName": "Math",
+      "assignmentImage": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Math.jpg"
+    },
+    {
+      "id": 6,
+      "assignmentName": "Physics",
+      "assignmentImage": "https://img.freepik.com/free-vector/background-about-physics_1284-698.jpg"
+    }
+  ]
+  

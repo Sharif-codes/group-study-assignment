@@ -1,0 +1,7 @@
+.pagination{
+    padding: 3px;
+    margin-left: 5px;
+}
+.pagination .selected{
+    background-color: tomato;
+}
